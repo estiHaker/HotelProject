@@ -5,11 +5,11 @@
 ### הצגת לקוח לפי ת.זהות:
 '{id}/https://myHotel/api/customers'
 ### הוספת לקוח:
-'https://myHotel/api/customers
+'https://myHotel/api/customers'
 ### עדכון לקוח:
-'{id}/https://myHotel/api/customers
+'{id}/https://myHotel/api/customers'
 ### מחיקת לקוח:
-'{id}/https://myHotel/api/customers
+'{id}/https://myHotel/api/customers'
 
 ## חדרים:
 ### הצגת חדרים:
