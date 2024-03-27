@@ -1,6 +1,6 @@
 # HotelProject
 ## לקוחות:
-### הצגת לקוחות:
+#### הצגת לקוחות:
 'https://myHotel/api/customers'
 ### הצגת לקוח לפי ת.זהות:
 '{id}/https://myHotel/api/customers'
